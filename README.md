@@ -13,4 +13,4 @@ Esta traducción se encuentra bajo la licencia [GPLv2](./LICENSE)
 
 Si desea saber que necesita hacer para poder contribuir con el proyecto por favor [lea lo siguiente](./eBook/contribute.md)
 
-[Indice](https://github.com/Jackgris/wikiLibGDX_es/wiki)
+[Indice](https://github.com/Riosfen/wikiLibGDX_es/wiki)
